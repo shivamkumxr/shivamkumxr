@@ -9,10 +9,10 @@
 <br/>
 
 <a href="https://github.com/shivamkumxr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=%E2%9A%A1+Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+LLMs;%F0%9F%94%97+RAG+%C2%B7+AI+Agents+%C2%B7+Generative+AI+%C2%B7+MLOps;%F0%9F%9A%80+From+Data+to+Production-Grade+AI+Systems" alt="Typing SVG — AI/ML Engineering Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=%E2%9A%A1+Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+LLMs;%F0%9F%94%97+RAG+%C2%B7+AI+Agents+%C2%B7+Generative+AI+%C2%B7+MLOps;%F0%9F%9A%80+From+Data+to+Production-Grade+AI+Systems" alt="Typing SVG — AI/ML Engineering Focus" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ─── SOCIAL BADGES ─── -->
 <p>
@@ -372,7 +372,7 @@ that solve real problems at scale.
 <br/>
 
 <!-- ─── FOOTER ─── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,10:0f172a,30:1e3a5f,50:1f6feb,70:38bdf8,90:7dd3fc,100:bae6fd&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,10:0f172a,30:1e3a5f,50:1f6feb,70:38bdf8,90:7dd3fc,100:bae6fd&height=120&section=footer&animation=fadeIn" alt="Footer" />
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  PLACEHOLDERS — REPLACE BEFORE PUBLISHING                        -->
